@@ -4,24 +4,30 @@
 
 1.0.0
 
+This is simple extension to allow you bulk generate your directory (folders and files), you don't have to worry about nesting paths as it will create parent folders if they don't exist. Also don't worry about existing files, if file exists it won't be override it.
 
-This is simple extension to allow you bulk generate your directory (folders and files), you don't have to worry about nesting paths as it will create folders if they don't exist. Also don't worry about existing files, if file exists it won't be overwritten.
+## How it works?
 
-## Features
+* Just type your folder structure in any file in your editor, each path in a separate line.
+* Select the lines that contain all your paths
+* Right click, choose `Directory Bootstrap > Generate from selection` from the context menu.
+* Alternatively, find the same menu in the command pallette (ctrl + shift + p).
+* That's it. you will see your files and folders generated instantly!
 
-Just type your folder structure in any file, each path in a separate line. Select the lines that contain all your paths and open VS command (ctrl + shift + p) and find "Directory Bootstrap > Generate from selection". That's it.. you will see your files and folders generated instantly!
-
-Example:
+<br>
+Example folder structure to generate:
 
 ```
-src/js
-src/assets
-src/html/templates
-src/html/components/index.html
+public/index.html
+src/components/Header
+src/components/Footer
+src/components/App.ts
+src/pages
+src/hooks
+src/types
+src/css
+README.md
 package.json
-.npmrc
-index.html
-test/test.config.js
 ```
 
 ### 1.0.0

@@ -21,7 +21,7 @@ This is simple extension to allow you bulk generate your directory (folders and 
 <br>
 
 
-![Step 1](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_2.png)
+![Step 2](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_2.png)
 
 
 <br>

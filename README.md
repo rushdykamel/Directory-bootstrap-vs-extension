@@ -2,7 +2,7 @@
 
 ***Generate your folder structure in one go***
 
-1.0.0
+1.0.1
 
 This is simple extension to allow you bulk generate your directory (folders and files), you don't have to worry about nesting paths as it will create parent folders if they don't exist. Also don't worry about existing files, if file exists it won't be override it.
 
@@ -40,7 +40,7 @@ README.md
 package.json
 ```
 
-### 1.0.0
+### 1.0.1
 
 Initial release
 

@@ -1,5 +1,4 @@
 node_modules
 .vscode
 *.vsix
-dist/extension.js
-dist/extension.js.map
+dist

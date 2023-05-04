@@ -14,6 +14,16 @@ This is simple extension to allow you bulk generate your directory (folders and 
 * Alternatively, find the same menu in the command pallette (ctrl + shift + p).
 * That's it. you will see your files and folders generated instantly!
 
+## Screenshots
+
+![Step 1](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_1.png)
+
+<br>
+
+
+![Step 1](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_2.png)
+
+
 <br>
 Example folder structure to generate:
 

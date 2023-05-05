@@ -7,7 +7,7 @@ export type PathResult = {
 };
 
 export function getPaths(fullText: string): PathResult[] {
-  const lines = fullText.split('\r\n');
+  const lines = fullText.split(/\r\n|\r|\n/);
   let results: PathResult[] = [];
 
   lines.forEach((line) => {

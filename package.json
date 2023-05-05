@@ -2,7 +2,7 @@
   "name": "directory-bootstrap",
   "displayName": "Directory Bootstrap",
   "description": "Bulk generate your project directory from text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "RushdyKamel",
   "engines": {
     "vscode": "^1.77.0"

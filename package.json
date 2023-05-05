@@ -1,7 +1,7 @@
 {
   "name": "directory-bootstrap",
   "displayName": "Directory Bootstrap",
-  "description": "Bulk generate your project directory from a your editor",
+  "description": "Bulk generate your project directory from text",
   "version": "1.0.2",
   "publisher": "RushdyKamel",
   "engines": {
@@ -40,7 +40,8 @@
     "watch-tests": "tsc -p . -w --outDir out",
     "pretest": "npm run compile-tests && npm run compile && npm run lint",
     "lint": "eslint src --ext ts",
-    "test": "node ./out/test/runTest.js"
+    "test": "node ./out/test/runTest.js",
+    "publish": "vsce package" 
   },
   "devDependencies": {
     "@types/vscode": "^1.77.0",

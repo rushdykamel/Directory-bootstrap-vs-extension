@@ -16,33 +16,25 @@ This is simple extension to allow you bulk generate your directory (folders and 
 
 ## Screenshots
 
-![Step 1](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_1.png)
-
-<br>
+![GIF](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/animation.gif)
 
 
-![Step 2](https://raw.githubusercontent.com/rushdykamel/Directory-bootstrap-vs-extension/main/assets/Screenshot_2.png)
-
-
-<br>
-Example folder structure to generate:
+<br><br>
+Example folder structure to generate from text editor:
 
 ```
 public/index.html
-src/components/Header
 src/components/Footer
+src/components/Header
 src/components/App.ts
-src/pages
-src/hooks
-src/types
 src/css
-README.md
+src/hooks
+src/pages
+src/types
 package.json
+README.md
 ```
 
-### 1.0.2
-
-Initial release
 
 - - -
 
